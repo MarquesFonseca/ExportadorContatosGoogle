@@ -18,6 +18,7 @@ namespace ExportadorContatos
             //Application.Run(new ExportadorContatosGoogle.FormGerenciadorContatosVCardV4());
             //Application.Run(new ExportadorContatosGoogle.Form1());
             Application.Run(new ExportadorContatosGoogle.FormGerenciadorContatosVCardV3());
+            //teste
         }
     }
 }
