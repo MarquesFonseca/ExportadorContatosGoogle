@@ -1,23 +1,13 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExportadorContatosGoogle", "ExportadorContatosGoogle\ExportadorContatosGoogle.csproj", "{88110147-88A2-4332-9A38-43D497028843}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExportadorContatos", "ExportadorContatos\ExportadorContatos.csproj", "{FDE32135-4EE5-49FB-AB8E-08066593F141}"
 EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 3
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://marques-fonseca.visualstudio.com/
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = ExportadorContatosGoogle\\ExportadorContatosGoogle.csproj
-		SccProjectName1 = ExportadorContatosGoogle
-		SccLocalPath1 = ExportadorContatosGoogle
-		SccProjectUniqueName2 = ExportadorContatos\\ExportadorContatos.csproj
-		SccProjectName2 = ExportadorContatos
-		SccLocalPath2 = ExportadorContatos
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Debug|Mixed Platforms = Debug|Mixed Platforms
