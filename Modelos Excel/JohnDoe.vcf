@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:4.0
+FN:
+N:Fonseca;Marques;;;
+TITLE:Chief Everything Office
+ORG:Freelancer;
+ADR;TYPE=DOM:;;Rua;Palmas;;44;Brasil
+TEL;PREF=1;TYPE=PREF:63 99208-2269
+EMAIL;PREF=1;TYPE=AOL:marquesfonseca@gmail.com
+EMAIL;TYPE=AOL:marques-fonseca@hotmail.com
+CATEGORIES:Friend,Fella,Amsterdam
+CLASS:PUBLIC
+KIND:individual
+GENDER:M
+END:VCARD

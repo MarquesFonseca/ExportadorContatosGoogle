@@ -1,0 +1,11 @@
+C:\Projetos\ExportadorContatosGoogle\ExportadorContatos\bin\Release\ExportadorContatos.exe.config
+C:\Projetos\ExportadorContatosGoogle\ExportadorContatos\bin\Release\ExportadorContatos.exe
+C:\Projetos\ExportadorContatosGoogle\ExportadorContatos\bin\Release\ExportadorContatos.pdb
+C:\Projetos\ExportadorContatosGoogle\ExportadorContatos\bin\Release\ExportadorContatosGoogle.dll
+C:\Projetos\ExportadorContatosGoogle\ExportadorContatos\bin\Release\MixERP.Net.VCards.dll
+C:\Projetos\ExportadorContatosGoogle\ExportadorContatos\bin\Release\ExportadorContatosGoogle.pdb
+C:\Projetos\ExportadorContatosGoogle\ExportadorContatos\obj\x86\Release\ExportadorContatos.csprojResolveAssemblyReference.cache
+C:\Projetos\ExportadorContatosGoogle\ExportadorContatos\obj\x86\Release\ExportadorContatos.Properties.Resources.resources
+C:\Projetos\ExportadorContatosGoogle\ExportadorContatos\obj\x86\Release\ExportadorContatos.csproj.GenerateResource.Cache
+C:\Projetos\ExportadorContatosGoogle\ExportadorContatos\obj\x86\Release\ExportadorContatos.exe
+C:\Projetos\ExportadorContatosGoogle\ExportadorContatos\obj\x86\Release\ExportadorContatos.pdb

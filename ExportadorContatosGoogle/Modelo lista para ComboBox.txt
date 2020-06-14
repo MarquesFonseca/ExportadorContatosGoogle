@@ -1,0 +1,76 @@
+﻿0 - Selecione...
+1 - Nome completo
+2 - Tratamento
+3 - Apelido
+4 - Data nascimento
+5 - Sexo
+6 - Telefone Principal
+7 - Telefone 2
+8 - Telefone 3
+9 - Telefone 4
+10 - Telefone 5
+11 - telefone 6
+12 - Email Pessoal
+13 - Email Comercial
+14 - Endereço Res.
+15 - Bairro Res.
+16 - Cidade Res.
+17 - Estado Res.
+18 - CEP Res.
+19 - País Res.
+20 - Endereço Com.
+21 - Bairro Com.
+22 - Cidade Com.
+23 - Estado Com.
+24 - CEP Com.
+25 - País Com.
+26 - Empresa
+27 - Cargo/Funcão
+28 - Nota/Histórico
+29 - Site Pessoal
+30 - Site Comercial
+31 - Nome Cônjuge
+32 - Data aniv. Cônjuge
+33 - Nome do pai
+34 - Nome da mãe
+35 - Grupos
+
+
+
+
+"Selecione..."
+"Nome completo"
+"Tratamento"
+"Apelido"
+"Data nascimento"
+"Sexo"
+"Telefone Principal"
+"Telefone 2"
+"Telefone 3"
+"Telefone 4"
+"Telefone 5"
+"telefone 6"
+"Email Pessoal"
+"Email Comercial"
+"Endereço Res."
+"Bairro Res."
+"Cidade Res."
+"Estado Res."
+"CEP Res."
+"País Res."
+"Endereço Com."
+"Bairro Com."
+"Cidade Com."
+"Estado Com."
+"CEP Com."
+"País Com."
+"Empresa"
+"Cargo/Funcão"
+"Nota/Histórico"
+"Site Pessoal"
+"Site Comercial"
+"Nome Cônjuge"
+"Data aniv. Cônjuge"
+"Nome do pai"
+"Nome da mãe"
+"Grupos"

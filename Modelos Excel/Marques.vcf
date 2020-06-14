@@ -1,0 +1,20 @@
+BEGIN:VCARD
+VERSION:4.0
+FN:João Silva Fonseca
+N:Fonseca;João;Silva;Meu Amigo;
+BDAY:1986-01-02T00:00:00.0000000
+TITLE:Funcionário Público Federal - ECT
+NOTE:Teste nota1
+ORG:Correios;DR-TO
+ADR;PREF=1;TYPE=DOM:17;Centro;Rua Venezuela;Palmas;Tocantins;77006-738;Brasil
+ADR;TYPE=HOME:45;Centro;Rua Paraguai;Palmas;Tocantins;77006-838;Brasil
+TEL;PREF=1;TYPE=CELL:+55 63 99208-2269
+TEL;TYPE=CELL:+55 63 99290-6960
+EMAIL;PREF=1;TYPE=AOL:marquessilvafonseca@bol.com.br
+EMAIL;TYPE=AOL:marques.silva@correios.com.br
+CATEGORIES:Grupo1,Grupo2,Grupo3
+NICKNAME:Marquim
+CLASS:PUBLIC
+KIND:individual
+GENDER:M
+END:VCARD

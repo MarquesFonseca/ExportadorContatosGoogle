@@ -1,0 +1,36 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;Marques Silva Fonseca;;Meu Amigo;
+FN:Meu Amigo Marques Silva Fonseca
+NICKNAME:Marques Desenvolvedor de Sistemas
+CATEGORIES:Correios,Igrejas Evangelicas
+BDAY:02/01/1986
+GENDER:M
+ORG:ECT-Empresa de Correios e Telegrafos - Correios;
+TITLE:Atendente Comercial
+NOTE:John Doe has a long and varied history, being documented on more police files that anyone else. Reports of his death are alas numerous.
+EMAIL;TYPE=INTERNET;TYPE=Pessoal;type=pref:marques-fonseca@hotmail.com
+EMAIL;TYPE=INTERNET;TYPE=WORK:marques.silva@correios.com.br
+TEL;type=Telefone1;type=pref:(63) 99208-2269
+TEL;type=Telefone2:(63) 98418-5880
+TEL;type=Telefone3:(63) 99208-2269
+TEL;type=Telefone4:(63) 99208-2269
+TEL;type=Telefone5:(63) 99208-2269
+TEL;type=Telefone6:(63) 99208-2269
+item1.ADR;type=HOME;type=pref:;;Quadra 604 Norte Alameda 04 Qd-12 Lt 17 Casa 02 Plano Diretor Sul;Palmas;TO;77006-738;BRAZIL
+item1.X-ABADR:BR
+item2.ADR;type=WORK:;;Quadra 604 Sul Alameda LO 15 Lt 09 Plano Diretor Sul;Palmas;TO;7722-971;BRAZIL
+item2.X-ABADR:BR
+item3.URL;type=pref:http://www.iques.com.br
+item3.X-ABLabel:_$!<HomePage>!$_
+item4.URL:http://www.correios.com.br
+item4.X-ABLabel:Correios ----->>> colocar o nome da organização
+item5.X-ABDATE:19850512
+item5.X-ABLabel:Aniversário da Esposa
+item6.X-ABRELATEDNAMES;type=pref:Lauanda da Silva Ferreira Fonseca
+item6.X-ABLabel:_$!<Spouse>!$_
+item7.X-ABRELATEDNAMES:Roque Alves Fonseca
+item7.X-ABLabel:_$!<Father>!$_
+item8.X-ABRELATEDNAMES:Maria Silva Fonseca
+item8.X-ABLabel:_$!<Mother>!$_
+END:VCARD

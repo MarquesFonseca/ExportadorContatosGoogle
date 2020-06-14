@@ -1,0 +1,16 @@
+C:\Projetos\ExportadorContatosGoogle\ExportadorContatosGoogle\bin\x86\Debug\ExportadorContatosGoogle.dll
+C:\Projetos\ExportadorContatosGoogle\ExportadorContatosGoogle\bin\x86\Debug\ExportadorContatosGoogle.pdb
+C:\Projetos\ExportadorContatosGoogle\ExportadorContatosGoogle\bin\x86\Debug\MixERP.Net.VCards.dll
+C:\Projetos\ExportadorContatosGoogle\ExportadorContatosGoogle\obj\x86\Debug\ExportadorContatosGoogle.Form1.resources
+C:\Projetos\ExportadorContatosGoogle\ExportadorContatosGoogle\obj\x86\Debug\ExportadorContatosGoogle.FormGerenciadorContatos.resources
+C:\Projetos\ExportadorContatosGoogle\ExportadorContatosGoogle\obj\x86\Debug\ExportadorContatosGoogle.FormGerenciadorContatosVCardV4.resources
+C:\Projetos\ExportadorContatosGoogle\ExportadorContatosGoogle\obj\x86\Debug\ExportadorContatosGoogle.FormGerenciadorContatosVCardV3.resources
+C:\Projetos\ExportadorContatosGoogle\ExportadorContatosGoogle\obj\x86\Debug\ExportadorContatosGoogle.FormPlan.resources
+C:\Projetos\ExportadorContatosGoogle\ExportadorContatosGoogle\obj\x86\Debug\ExportadorContatosGoogle.FormWaiting.resources
+C:\Projetos\ExportadorContatosGoogle\ExportadorContatosGoogle\obj\x86\Debug\ExportadorContatosGoogle.Properties.Resources.resources
+C:\Projetos\ExportadorContatosGoogle\ExportadorContatosGoogle\obj\x86\Debug\ExportadorContatosGoogle.csproj.GenerateResource.Cache
+C:\Projetos\ExportadorContatosGoogle\ExportadorContatosGoogle\obj\x86\Debug\ExportadorContatosGoogle.dll
+C:\Projetos\ExportadorContatosGoogle\ExportadorContatosGoogle\obj\x86\Debug\ExportadorContatosGoogle.pdb
+C:\Projetos\ExportadorContatosGoogle\ExportadorContatosGoogle\bin\Debug\ExportadorContatosGoogle.dll
+C:\Projetos\ExportadorContatosGoogle\ExportadorContatosGoogle\bin\Debug\ExportadorContatosGoogle.pdb
+C:\Projetos\ExportadorContatosGoogle\ExportadorContatosGoogle\bin\Debug\MixERP.Net.VCards.dll

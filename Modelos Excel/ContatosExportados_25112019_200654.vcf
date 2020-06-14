@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Gramps//NONSGML Gramps 5.0.0-alpha1//EN
+FN:Anna Hansdotter
+N:Hansdotter;Anna;;;
+SORT-STRING:Hansdotter               Anna                          
+NICKNAME:Annanana
+X-GENDER:Female
+BDAY:1864-10-02
+END:VCARD
