@@ -14,3 +14,4 @@ C:\Projetos\ExportadorContatosGoogle\ExportadorContatosGoogle\obj\x86\Release\Ex
 C:\Projetos\ExportadorContatosGoogle\ExportadorContatosGoogle\bin\Release\ExportadorContatosGoogle.dll
 C:\Projetos\ExportadorContatosGoogle\ExportadorContatosGoogle\bin\Release\ExportadorContatosGoogle.pdb
 C:\Projetos\ExportadorContatosGoogle\ExportadorContatosGoogle\bin\Release\MixERP.Net.VCards.dll
+C:\Projetos\ExportadorContatosGoogle\ExportadorContatosGoogle\obj\x86\Release\ExportadorContatosGoogle.csprojResolveAssemblyReference.cache
